@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketGameLibrary", "BasketGame\BasketGameLibrary.csproj", "{EB4567A6-8923-4194-8E46-95CE561372C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketRoot", "BasketRoot\BasketRoot.csproj", "{F848F424-BC8F-4BA1-8F16-90204E09FB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4567A6-8923-4194-8E46-95CE561372C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4567A6-8923-4194-8E46-95CE561372C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4567A6-8923-4194-8E46-95CE561372C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4567A6-8923-4194-8E46-95CE561372C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F848F424-BC8F-4BA1-8F16-90204E09FB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F848F424-BC8F-4BA1-8F16-90204E09FB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F848F424-BC8F-4BA1-8F16-90204E09FB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F848F424-BC8F-4BA1-8F16-90204E09FB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710295F9-F7E0-4613-84A6-BF4C2627AC98}
+	EndGlobalSection
+EndGlobal
